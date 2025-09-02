@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/e64803b477a0476f9abdd78b8bd975a4/artifacts
+deleted_time: 1756828523891
+end_time: 1756828163865
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: e64803b477a0476f9abdd78b8bd975a4
+run_name: kindly-smelt-341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828163676
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/b52c13d5aa644304bff17ee69e19eaed/artifacts
+deleted_time: 1756828523891
+end_time: 1756828251164
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: b52c13d5aa644304bff17ee69e19eaed
+run_name: dashing-skink-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828250886
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/d664f94cd6e040079a1a22f8d98e8bf7/artifacts
+deleted_time: 1756828523891
+end_time: 1756828277718
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: d664f94cd6e040079a1a22f8d98e8bf7
+run_name: awesome-chimp-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828277524
+status: 3
+tags: []
+user_id: ravi

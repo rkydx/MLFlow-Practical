@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/fc0d7b5872f34bb7a155b5910feb5dff/artifacts
+deleted_time: 1756828523891
+end_time: 1756828201365
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: fc0d7b5872f34bb7a155b5910feb5dff
+run_name: sedate-snail-62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828201170
+status: 3
+tags: []
+user_id: ravi

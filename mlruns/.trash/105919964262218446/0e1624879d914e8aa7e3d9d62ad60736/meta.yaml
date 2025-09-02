@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/0e1624879d914e8aa7e3d9d62ad60736/artifacts
+deleted_time: 1756828523891
+end_time: 1756828142783
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 0e1624879d914e8aa7e3d9d62ad60736
+run_name: worried-zebra-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828142558
+status: 3
+tags: []
+user_id: ravi

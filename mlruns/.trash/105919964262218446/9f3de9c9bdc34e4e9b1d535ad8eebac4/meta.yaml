@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/9f3de9c9bdc34e4e9b1d535ad8eebac4/artifacts
+deleted_time: 1756828523891
+end_time: 1756828379795
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 9f3de9c9bdc34e4e9b1d535ad8eebac4
+run_name: bittersweet-goat-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828379546
+status: 3
+tags: []
+user_id: ravi

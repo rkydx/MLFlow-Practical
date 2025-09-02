@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/59535605eda74c068ace1f6ff4cd3237/artifacts
+deleted_time: 1756828523891
+end_time: 1756828337190
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 59535605eda74c068ace1f6ff4cd3237
+run_name: indecisive-turtle-51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828336802
+status: 3
+tags: []
+user_id: ravi

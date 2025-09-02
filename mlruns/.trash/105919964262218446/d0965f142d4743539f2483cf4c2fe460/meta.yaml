@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/d0965f142d4743539f2483cf4c2fe460/artifacts
+deleted_time: 1756828523891
+end_time: 1756828240314
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: d0965f142d4743539f2483cf4c2fe460
+run_name: debonair-horse-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828240050
+status: 3
+tags: []
+user_id: ravi

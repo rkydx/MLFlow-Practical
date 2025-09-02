@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/9d16d64bba4a4935894f1087e2bd0a1f/artifacts
+deleted_time: 1756828523891
+end_time: 1756828409133
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 9d16d64bba4a4935894f1087e2bd0a1f
+run_name: unruly-crab-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828408874
+status: 3
+tags: []
+user_id: ravi

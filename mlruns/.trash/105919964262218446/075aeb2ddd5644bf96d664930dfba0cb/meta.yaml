@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/075aeb2ddd5644bf96d664930dfba0cb/artifacts
+deleted_time: 1756828523891
+end_time: 1756828381490
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 075aeb2ddd5644bf96d664930dfba0cb
+run_name: orderly-stag-426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828381235
+status: 3
+tags: []
+user_id: ravi

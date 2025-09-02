@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/2f09ae4075034d4787e2718841675a16/artifacts
+deleted_time: 1756828523891
+end_time: 1756828369094
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 2f09ae4075034d4787e2718841675a16
+run_name: bustling-hare-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828368807
+status: 3
+tags: []
+user_id: ravi

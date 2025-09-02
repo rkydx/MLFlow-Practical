@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/058ca1a914cf4f0e9b6e1a582c6f372c/artifacts
+end_time: 1756829622243
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: 058ca1a914cf4f0e9b6e1a582c6f372c
+run_name: welcoming-sow-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829622024
+status: 3
+tags: []
+user_id: ravi

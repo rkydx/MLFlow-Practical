@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/cd7845b4d8fe4845954b7d1dcad9c6ee/artifacts
+end_time: 1756829621724
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: cd7845b4d8fe4845954b7d1dcad9c6ee
+run_name: worried-ox-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829621406
+status: 3
+tags: []
+user_id: ravi

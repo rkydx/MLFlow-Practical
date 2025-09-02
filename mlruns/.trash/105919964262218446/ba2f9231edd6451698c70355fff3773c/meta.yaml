@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/ba2f9231edd6451698c70355fff3773c/artifacts
+deleted_time: 1756828523891
+end_time: 1756828207565
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: ba2f9231edd6451698c70355fff3773c
+run_name: grandiose-deer-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828207316
+status: 3
+tags: []
+user_id: ravi

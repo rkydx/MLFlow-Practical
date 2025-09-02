@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/b20b17a17e174fbdbfd268de6d539833/artifacts
+deleted_time: 1756828523891
+end_time: 1756828419321
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: b20b17a17e174fbdbfd268de6d539833
+run_name: honorable-bird-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828419067
+status: 3
+tags: []
+user_id: ravi

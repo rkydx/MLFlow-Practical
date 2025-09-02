@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/86a3762b68594c28a72b5770b4224b98/artifacts
+deleted_time: 1756828523891
+end_time: 1756828379451
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 86a3762b68594c28a72b5770b4224b98
+run_name: salty-lark-836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828379149
+status: 3
+tags: []
+user_id: ravi

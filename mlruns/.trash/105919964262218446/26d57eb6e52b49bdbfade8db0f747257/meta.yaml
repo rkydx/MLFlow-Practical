@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/26d57eb6e52b49bdbfade8db0f747257/artifacts
+deleted_time: 1756828523891
+end_time: 1756828438266
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 26d57eb6e52b49bdbfade8db0f747257
+run_name: funny-hound-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828438086
+status: 3
+tags: []
+user_id: ravi

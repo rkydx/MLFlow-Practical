@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/d4592a5870a34c24bcd61f624b134f74/artifacts
+deleted_time: 1756828523891
+end_time: 1756828394995
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: d4592a5870a34c24bcd61f624b134f74
+run_name: inquisitive-wolf-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828394701
+status: 3
+tags: []
+user_id: ravi

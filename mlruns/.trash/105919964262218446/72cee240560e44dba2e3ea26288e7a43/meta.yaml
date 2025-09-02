@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/72cee240560e44dba2e3ea26288e7a43/artifacts
+deleted_time: 1756828523891
+end_time: 1756828295572
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 72cee240560e44dba2e3ea26288e7a43
+run_name: awesome-foal-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828295423
+status: 3
+tags: []
+user_id: ravi

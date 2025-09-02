@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/1b43fadbd5d14091b7d17069bab47ee1/artifacts
+deleted_time: 1756828523891
+end_time: 1756828204718
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 1b43fadbd5d14091b7d17069bab47ee1
+run_name: worried-bear-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828204566
+status: 3
+tags: []
+user_id: ravi

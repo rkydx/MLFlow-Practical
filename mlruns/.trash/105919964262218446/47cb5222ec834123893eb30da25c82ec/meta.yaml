@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/47cb5222ec834123893eb30da25c82ec/artifacts
+deleted_time: 1756828523891
+end_time: 1756828384797
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 47cb5222ec834123893eb30da25c82ec
+run_name: rumbling-hen-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828384488
+status: 3
+tags: []
+user_id: ravi

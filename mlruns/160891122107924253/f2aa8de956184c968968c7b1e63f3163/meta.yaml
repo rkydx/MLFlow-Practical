@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/160891122107924253/f2aa8de956184c968968c7b1e63f3163/artifacts
+end_time: 1756809045858
+entry_point_name: ''
+experiment_id: '160891122107924253'
+lifecycle_stage: active
+run_id: f2aa8de956184c968968c7b1e63f3163
+run_name: colorful-goat-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756809012910
+status: 3
+tags: []
+user_id: ravi

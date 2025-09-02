@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/35e2d4dfa6f84f78b5dd940c310bd5c0/artifacts
+deleted_time: 1756828523891
+end_time: 1756828303898
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 35e2d4dfa6f84f78b5dd940c310bd5c0
+run_name: smiling-mare-489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828303703
+status: 3
+tags: []
+user_id: ravi

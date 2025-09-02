@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/f930950de2ca41ba9d9913d08d436bb8/artifacts
+deleted_time: 1756828523891
+end_time: 1756828302812
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: f930950de2ca41ba9d9913d08d436bb8
+run_name: worried-midge-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828302607
+status: 3
+tags: []
+user_id: ravi

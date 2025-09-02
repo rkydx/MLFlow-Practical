@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/621dc1729ed247ef8f2547837260a757/artifacts
+end_time: 1756829619251
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: 621dc1729ed247ef8f2547837260a757
+run_name: valuable-skunk-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829619073
+status: 3
+tags: []
+user_id: ravi

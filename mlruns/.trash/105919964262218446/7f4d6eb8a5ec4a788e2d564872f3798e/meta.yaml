@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/7f4d6eb8a5ec4a788e2d564872f3798e/artifacts
+deleted_time: 1756828523891
+end_time: 1756828181415
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 7f4d6eb8a5ec4a788e2d564872f3798e
+run_name: lyrical-sponge-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828181178
+status: 3
+tags: []
+user_id: ravi

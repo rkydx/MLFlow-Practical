@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/11195a19695743a789219557e2dc1eb5/artifacts
+deleted_time: 1756828523891
+end_time: 1756828322266
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 11195a19695743a789219557e2dc1eb5
+run_name: marvelous-shad-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828322011
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/4ab507eb84e34b38bea5503d8dfb7145/artifacts
+deleted_time: 1756828523891
+end_time: 1756828270115
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 4ab507eb84e34b38bea5503d8dfb7145
+run_name: receptive-asp-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828269869
+status: 3
+tags: []
+user_id: ravi

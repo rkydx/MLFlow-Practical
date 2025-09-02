@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/9c9ded10432c4158b612d64be2a0f831/artifacts
+deleted_time: 1756828523891
+end_time: 1756828219697
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 9c9ded10432c4158b612d64be2a0f831
+run_name: nimble-toad-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828219349
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/8e1d3385c912436d8885e278e253eff5/artifacts
+deleted_time: 1756828523891
+end_time: 1756828306093
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 8e1d3385c912436d8885e278e253eff5
+run_name: fortunate-cod-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828305852
+status: 3
+tags: []
+user_id: ravi

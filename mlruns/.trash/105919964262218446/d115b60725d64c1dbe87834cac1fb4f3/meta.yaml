@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/d115b60725d64c1dbe87834cac1fb4f3/artifacts
+deleted_time: 1756828523891
+end_time: 1756826465118
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: d115b60725d64c1dbe87834cac1fb4f3
+run_name: hilarious-mouse-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756826464889
+status: 3
+tags: []
+user_id: ravi

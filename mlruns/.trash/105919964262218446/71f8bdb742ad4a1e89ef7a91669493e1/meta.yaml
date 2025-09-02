@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/71f8bdb742ad4a1e89ef7a91669493e1/artifacts
+deleted_time: 1756828523891
+end_time: 1756828302239
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 71f8bdb742ad4a1e89ef7a91669493e1
+run_name: bald-bear-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828302073
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/d46904ef20ba47ec83ed57b4ec7edc37/artifacts
+deleted_time: 1756828523891
+end_time: 1756828300604
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: d46904ef20ba47ec83ed57b4ec7edc37
+run_name: fortunate-skink-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828300441
+status: 3
+tags: []
+user_id: ravi

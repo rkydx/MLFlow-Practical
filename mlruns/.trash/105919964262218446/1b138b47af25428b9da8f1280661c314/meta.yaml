@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/1b138b47af25428b9da8f1280661c314/artifacts
+deleted_time: 1756828523891
+end_time: 1756826464516
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 1b138b47af25428b9da8f1280661c314
+run_name: exultant-grouse-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756826464283
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/577bfbb0fb9b430bad200a917bde0f35/artifacts
+deleted_time: 1756828523891
+end_time: 1756828175487
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 577bfbb0fb9b430bad200a917bde0f35
+run_name: stylish-vole-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828175301
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/1ee425fba5b84fa1990fd83b801e8d03/artifacts
+end_time: 1756829628225
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: 1ee425fba5b84fa1990fd83b801e8d03
+run_name: sneaky-wren-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829627910
+status: 3
+tags: []
+user_id: ravi

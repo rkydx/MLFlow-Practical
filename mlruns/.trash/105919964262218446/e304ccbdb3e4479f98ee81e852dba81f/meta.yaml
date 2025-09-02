@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/e304ccbdb3e4479f98ee81e852dba81f/artifacts
+deleted_time: 1756828523891
+end_time: 1756828245141
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: e304ccbdb3e4479f98ee81e852dba81f
+run_name: legendary-fox-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828244894
+status: 3
+tags: []
+user_id: ravi

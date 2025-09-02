@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/4f20dabe03314f418d6aa717acfee7ac/artifacts
+deleted_time: 1756828523891
+end_time: 1756828258033
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 4f20dabe03314f418d6aa717acfee7ac
+run_name: crawling-auk-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828257811
+status: 3
+tags: []
+user_id: ravi

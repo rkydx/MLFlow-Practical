@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/75ceb2d4e0ca4098b1ba38fc663e467b/artifacts
+deleted_time: 1756828523891
+end_time: 1756828269792
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 75ceb2d4e0ca4098b1ba38fc663e467b
+run_name: secretive-cub-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828269523
+status: 3
+tags: []
+user_id: ravi

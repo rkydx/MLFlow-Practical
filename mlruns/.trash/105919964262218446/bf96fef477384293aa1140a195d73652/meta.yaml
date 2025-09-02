@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/bf96fef477384293aa1140a195d73652/artifacts
+deleted_time: 1756828523891
+end_time: 1756828368707
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: bf96fef477384293aa1140a195d73652
+run_name: bemused-finch-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828368418
+status: 3
+tags: []
+user_id: ravi

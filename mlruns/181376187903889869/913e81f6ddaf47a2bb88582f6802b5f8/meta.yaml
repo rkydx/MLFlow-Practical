@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/913e81f6ddaf47a2bb88582f6802b5f8/artifacts
+end_time: 1756829619037
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: 913e81f6ddaf47a2bb88582f6802b5f8
+run_name: powerful-owl-353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829618826
+status: 3
+tags: []
+user_id: ravi

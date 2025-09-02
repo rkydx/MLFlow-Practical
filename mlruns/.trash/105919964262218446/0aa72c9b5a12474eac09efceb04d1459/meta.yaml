@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/0aa72c9b5a12474eac09efceb04d1459/artifacts
+deleted_time: 1756828523891
+end_time: 1756828433674
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 0aa72c9b5a12474eac09efceb04d1459
+run_name: rogue-grouse-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828433386
+status: 3
+tags: []
+user_id: ravi

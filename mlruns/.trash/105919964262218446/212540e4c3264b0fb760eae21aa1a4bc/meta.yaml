@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/212540e4c3264b0fb760eae21aa1a4bc/artifacts
+deleted_time: 1756828523891
+end_time: 1756828347550
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 212540e4c3264b0fb760eae21aa1a4bc
+run_name: welcoming-stag-710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828347388
+status: 3
+tags: []
+user_id: ravi

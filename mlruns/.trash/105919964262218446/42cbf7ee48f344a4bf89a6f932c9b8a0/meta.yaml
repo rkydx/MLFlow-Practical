@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/42cbf7ee48f344a4bf89a6f932c9b8a0/artifacts
+deleted_time: 1756828523891
+end_time: 1756828191848
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 42cbf7ee48f344a4bf89a6f932c9b8a0
+run_name: sneaky-seal-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828191630
+status: 3
+tags: []
+user_id: ravi

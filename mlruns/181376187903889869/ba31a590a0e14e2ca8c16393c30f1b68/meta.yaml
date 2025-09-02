@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/ba31a590a0e14e2ca8c16393c30f1b68/artifacts
+end_time: 1756829629109
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: ba31a590a0e14e2ca8c16393c30f1b68
+run_name: marvelous-boar-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829628860
+status: 3
+tags: []
+user_id: ravi

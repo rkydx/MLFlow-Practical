@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/058f246e582949b8b04997beaaedf03a/artifacts
+deleted_time: 1756828523891
+end_time: 1756828381852
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 058f246e582949b8b04997beaaedf03a
+run_name: beautiful-fly-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828381595
+status: 3
+tags: []
+user_id: ravi

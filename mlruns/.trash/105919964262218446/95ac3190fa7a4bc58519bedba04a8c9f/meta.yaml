@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/95ac3190fa7a4bc58519bedba04a8c9f/artifacts
+deleted_time: 1756828523891
+end_time: 1756826472073
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 95ac3190fa7a4bc58519bedba04a8c9f
+run_name: bustling-jay-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756826471690
+status: 3
+tags: []
+user_id: ravi

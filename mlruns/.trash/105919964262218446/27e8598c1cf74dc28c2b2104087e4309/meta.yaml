@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/27e8598c1cf74dc28c2b2104087e4309/artifacts
+deleted_time: 1756828523891
+end_time: 1756828216086
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 27e8598c1cf74dc28c2b2104087e4309
+run_name: amusing-ram-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828215866
+status: 3
+tags: []
+user_id: ravi

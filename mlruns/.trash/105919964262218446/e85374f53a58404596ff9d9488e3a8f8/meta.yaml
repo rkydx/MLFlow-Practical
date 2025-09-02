@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/e85374f53a58404596ff9d9488e3a8f8/artifacts
+deleted_time: 1756828523891
+end_time: 1756828273711
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: e85374f53a58404596ff9d9488e3a8f8
+run_name: zealous-bat-502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828273444
+status: 3
+tags: []
+user_id: ravi

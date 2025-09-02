@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/e12c13c3ff8e47139623b2c206369c8b/artifacts
+deleted_time: 1756828523891
+end_time: 1756828274619
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: e12c13c3ff8e47139623b2c206369c8b
+run_name: able-shad-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828274411
+status: 3
+tags: []
+user_id: ravi

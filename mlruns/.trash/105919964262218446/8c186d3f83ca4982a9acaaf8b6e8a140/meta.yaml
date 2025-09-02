@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/8c186d3f83ca4982a9acaaf8b6e8a140/artifacts
+deleted_time: 1756828523891
+end_time: 1756828225014
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 8c186d3f83ca4982a9acaaf8b6e8a140
+run_name: receptive-swan-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828224879
+status: 3
+tags: []
+user_id: ravi

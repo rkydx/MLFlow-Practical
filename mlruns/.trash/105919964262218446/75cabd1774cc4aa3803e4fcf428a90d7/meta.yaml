@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/75cabd1774cc4aa3803e4fcf428a90d7/artifacts
+deleted_time: 1756828523891
+end_time: 1756828356582
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 75cabd1774cc4aa3803e4fcf428a90d7
+run_name: invincible-smelt-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828356368
+status: 3
+tags: []
+user_id: ravi

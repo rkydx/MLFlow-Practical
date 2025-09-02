@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/793713393394337679/3610c85d40ab408998f13339bd135ffa/artifacts
+deleted_time: 1756734811160
+end_time: 1756729200706
+entry_point_name: ''
+experiment_id: '793713393394337679'
+lifecycle_stage: deleted
+run_id: 3610c85d40ab408998f13339bd135ffa
+run_name: intrigued-shrew-70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756729197026
+status: 4
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/b4049f09186048daa9fe41b81c16969d/artifacts
+deleted_time: 1756828523891
+end_time: 1756828423457
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: b4049f09186048daa9fe41b81c16969d
+run_name: adorable-moose-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828423161
+status: 3
+tags: []
+user_id: ravi

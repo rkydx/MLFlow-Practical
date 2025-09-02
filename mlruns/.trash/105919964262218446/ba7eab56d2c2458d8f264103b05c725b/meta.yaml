@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/ba7eab56d2c2458d8f264103b05c725b/artifacts
+deleted_time: 1756828523891
+end_time: 1756828316266
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: ba7eab56d2c2458d8f264103b05c725b
+run_name: able-carp-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828316000
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/5020efbe9ae54ca58dd1682f9569e88a/artifacts
+deleted_time: 1756828523891
+end_time: 1756828437672
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 5020efbe9ae54ca58dd1682f9569e88a
+run_name: lyrical-panda-372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828437400
+status: 3
+tags: []
+user_id: ravi

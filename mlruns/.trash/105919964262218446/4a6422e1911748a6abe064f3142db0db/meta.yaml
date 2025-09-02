@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/4a6422e1911748a6abe064f3142db0db/artifacts
+deleted_time: 1756828523891
+end_time: 1756828170117
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 4a6422e1911748a6abe064f3142db0db
+run_name: luxuriant-gnat-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828169872
+status: 3
+tags: []
+user_id: ravi

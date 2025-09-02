@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/3a68d77580124c209f8facfe9b9dea71/artifacts
+deleted_time: 1756828523891
+end_time: 1756828399069
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 3a68d77580124c209f8facfe9b9dea71
+run_name: amazing-bird-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828398899
+status: 3
+tags: []
+user_id: ravi

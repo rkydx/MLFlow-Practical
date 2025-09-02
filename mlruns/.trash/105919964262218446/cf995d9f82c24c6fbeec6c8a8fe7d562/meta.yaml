@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/cf995d9f82c24c6fbeec6c8a8fe7d562/artifacts
+deleted_time: 1756828523891
+end_time: 1756828288207
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: cf995d9f82c24c6fbeec6c8a8fe7d562
+run_name: calm-fowl-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828288075
+status: 3
+tags: []
+user_id: ravi

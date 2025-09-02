@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/fe8e636641df462eb1fa29346f854dfd/artifacts
+end_time: 1756829622806
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: fe8e636641df462eb1fa29346f854dfd
+run_name: rogue-doe-170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829622629
+status: 3
+tags: []
+user_id: ravi

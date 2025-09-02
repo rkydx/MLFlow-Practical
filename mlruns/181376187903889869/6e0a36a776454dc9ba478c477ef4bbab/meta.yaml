@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/6e0a36a776454dc9ba478c477ef4bbab/artifacts
+end_time: 1756829624809
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: 6e0a36a776454dc9ba478c477ef4bbab
+run_name: efficient-grouse-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829624677
+status: 3
+tags: []
+user_id: ravi

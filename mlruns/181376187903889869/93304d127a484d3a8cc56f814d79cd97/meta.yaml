@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/93304d127a484d3a8cc56f814d79cd97/artifacts
+end_time: 1756829630027
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: 93304d127a484d3a8cc56f814d79cd97
+run_name: merciful-turtle-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829629871
+status: 3
+tags: []
+user_id: ravi

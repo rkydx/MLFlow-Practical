@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/4f1444b34b764d98b52c1f7261fd1d94/artifacts
+deleted_time: 1756828523891
+end_time: 1756828191575
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 4f1444b34b764d98b52c1f7261fd1d94
+run_name: efficient-rat-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828191350
+status: 3
+tags: []
+user_id: ravi

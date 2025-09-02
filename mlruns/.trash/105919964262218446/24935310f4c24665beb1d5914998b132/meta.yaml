@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/24935310f4c24665beb1d5914998b132/artifacts
+deleted_time: 1756828523891
+end_time: 1756828208696
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 24935310f4c24665beb1d5914998b132
+run_name: stylish-frog-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828208434
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/d0654370f54b40fba8eb420029dcdb63/artifacts
+deleted_time: 1756828523891
+end_time: 1756828201984
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: d0654370f54b40fba8eb420029dcdb63
+run_name: omniscient-fawn-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828201822
+status: 3
+tags: []
+user_id: ravi

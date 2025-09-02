@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/fcf3ec15bf124cfc90cfb783f74af890/artifacts
+end_time: 1756829627037
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: fcf3ec15bf124cfc90cfb783f74af890
+run_name: polite-goose-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829626631
+status: 3
+tags: []
+user_id: ravi

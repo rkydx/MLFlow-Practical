@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/b18a3259fea8433ab1fa18af608d4a03/artifacts
+deleted_time: 1756828523891
+end_time: 1756828139165
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: b18a3259fea8433ab1fa18af608d4a03
+run_name: delicate-snake-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828138924
+status: 3
+tags: []
+user_id: ravi

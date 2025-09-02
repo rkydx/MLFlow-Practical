@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/126aff7a0ab647aba9645a91b4a78e94/artifacts
+deleted_time: 1756828523891
+end_time: 1756828173131
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 126aff7a0ab647aba9645a91b4a78e94
+run_name: persistent-moth-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828172882
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/296983de92fd4c7bae2ec303a72e506e/artifacts
+end_time: 1756829620364
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: 296983de92fd4c7bae2ec303a72e506e
+run_name: delicate-hog-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829620120
+status: 3
+tags: []
+user_id: ravi

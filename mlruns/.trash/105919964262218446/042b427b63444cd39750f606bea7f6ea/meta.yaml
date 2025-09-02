@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/042b427b63444cd39750f606bea7f6ea/artifacts
+deleted_time: 1756828523891
+end_time: 1756828235516
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 042b427b63444cd39750f606bea7f6ea
+run_name: capable-robin-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828235312
+status: 3
+tags: []
+user_id: ravi

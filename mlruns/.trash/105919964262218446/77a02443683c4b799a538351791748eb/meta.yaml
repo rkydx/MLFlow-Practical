@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/77a02443683c4b799a538351791748eb/artifacts
+deleted_time: 1756828523891
+end_time: 1756828292511
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 77a02443683c4b799a538351791748eb
+run_name: skittish-yak-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828292200
+status: 3
+tags: []
+user_id: ravi

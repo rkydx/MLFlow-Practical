@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/15218dd564a3490eb85b01b9cabcb999/artifacts
+deleted_time: 1756828523891
+end_time: 1756828180843
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 15218dd564a3490eb85b01b9cabcb999
+run_name: bittersweet-vole-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828180634
+status: 3
+tags: []
+user_id: ravi

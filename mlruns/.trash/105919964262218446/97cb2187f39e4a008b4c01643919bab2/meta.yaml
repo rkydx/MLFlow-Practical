@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/97cb2187f39e4a008b4c01643919bab2/artifacts
+deleted_time: 1756828523891
+end_time: 1756828199215
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 97cb2187f39e4a008b4c01643919bab2
+run_name: angry-colt-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828199076
+status: 3
+tags: []
+user_id: ravi

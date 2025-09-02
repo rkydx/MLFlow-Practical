@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/7338e99c555b4918a1da6964069cc3cc/artifacts
+deleted_time: 1756828523891
+end_time: 1756828360247
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 7338e99c555b4918a1da6964069cc3cc
+run_name: dapper-jay-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828359988
+status: 3
+tags: []
+user_id: ravi

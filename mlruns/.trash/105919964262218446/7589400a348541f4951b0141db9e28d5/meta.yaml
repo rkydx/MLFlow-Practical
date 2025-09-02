@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/7589400a348541f4951b0141db9e28d5/artifacts
+deleted_time: 1756828523891
+end_time: 1756828234338
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 7589400a348541f4951b0141db9e28d5
+run_name: beautiful-stag-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828234095
+status: 3
+tags: []
+user_id: ravi

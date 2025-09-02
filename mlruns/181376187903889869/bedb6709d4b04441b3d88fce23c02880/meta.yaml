@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/bedb6709d4b04441b3d88fce23c02880/artifacts
+end_time: 1756829628818
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: bedb6709d4b04441b3d88fce23c02880
+run_name: crawling-slug-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829628604
+status: 3
+tags: []
+user_id: ravi

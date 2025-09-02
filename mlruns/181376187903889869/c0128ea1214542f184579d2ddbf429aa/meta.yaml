@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/c0128ea1214542f184579d2ddbf429aa/artifacts
+end_time: 1756829619520
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: c0128ea1214542f184579d2ddbf429aa
+run_name: exultant-shrew-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829619286
+status: 3
+tags: []
+user_id: ravi

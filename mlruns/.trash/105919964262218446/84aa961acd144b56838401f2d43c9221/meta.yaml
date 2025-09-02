@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/84aa961acd144b56838401f2d43c9221/artifacts
+deleted_time: 1756828523891
+end_time: 1756828357511
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 84aa961acd144b56838401f2d43c9221
+run_name: dashing-snipe-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828357333
+status: 3
+tags: []
+user_id: ravi

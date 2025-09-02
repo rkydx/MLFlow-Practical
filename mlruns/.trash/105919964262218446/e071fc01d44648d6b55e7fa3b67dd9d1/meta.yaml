@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/e071fc01d44648d6b55e7fa3b67dd9d1/artifacts
+deleted_time: 1756828523891
+end_time: 1756828322627
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: e071fc01d44648d6b55e7fa3b67dd9d1
+run_name: gregarious-moose-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828322372
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/e43c727edf2946a9ab66ac251a413bd6/artifacts
+deleted_time: 1756828523891
+end_time: 1756828382663
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: e43c727edf2946a9ab66ac251a413bd6
+run_name: enchanting-stag-734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828382345
+status: 3
+tags: []
+user_id: ravi

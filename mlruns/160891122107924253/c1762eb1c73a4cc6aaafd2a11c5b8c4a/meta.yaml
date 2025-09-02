@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/160891122107924253/c1762eb1c73a4cc6aaafd2a11c5b8c4a/artifacts
+end_time: 1756809045858
+entry_point_name: ''
+experiment_id: '160891122107924253'
+lifecycle_stage: active
+run_id: c1762eb1c73a4cc6aaafd2a11c5b8c4a
+run_name: puzzled-hen-614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756809012910
+status: 3
+tags: []
+user_id: ravi

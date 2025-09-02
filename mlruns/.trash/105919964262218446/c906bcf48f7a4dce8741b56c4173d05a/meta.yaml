@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/c906bcf48f7a4dce8741b56c4173d05a/artifacts
+deleted_time: 1756828523891
+end_time: 1756828217251
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: c906bcf48f7a4dce8741b56c4173d05a
+run_name: worried-ox-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828217034
+status: 3
+tags: []
+user_id: ravi

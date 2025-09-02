@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/392d418827794be3b2eae15c9ebf1359/artifacts
+end_time: 1756829628562
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: 392d418827794be3b2eae15c9ebf1359
+run_name: youthful-bee-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829628310
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/67d26c25e77b4b5b84ea726c0eaa1204/artifacts
+deleted_time: 1756828523891
+end_time: 1756828397699
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 67d26c25e77b4b5b84ea726c0eaa1204
+run_name: unleashed-midge-946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828397459
+status: 3
+tags: []
+user_id: ravi

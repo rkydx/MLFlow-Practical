@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/1a5d70df8e4e49dfa741cfcad30d391f/artifacts
+deleted_time: 1756828523891
+end_time: 1756828188684
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 1a5d70df8e4e49dfa741cfcad30d391f
+run_name: clean-stoat-696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828188427
+status: 3
+tags: []
+user_id: ravi

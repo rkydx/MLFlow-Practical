@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/d4f87c95c6d44451b849457b2e2ad999/artifacts
+end_time: 1756829625370
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: d4f87c95c6d44451b849457b2e2ad999
+run_name: fun-croc-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829625105
+status: 3
+tags: []
+user_id: ravi

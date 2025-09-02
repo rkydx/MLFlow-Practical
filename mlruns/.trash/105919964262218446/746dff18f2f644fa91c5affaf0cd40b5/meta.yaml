@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/746dff18f2f644fa91c5affaf0cd40b5/artifacts
+deleted_time: 1756828523891
+end_time: 1756828251837
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 746dff18f2f644fa91c5affaf0cd40b5
+run_name: caring-lynx-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828251555
+status: 3
+tags: []
+user_id: ravi

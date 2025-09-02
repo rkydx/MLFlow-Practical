@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/35ca0202006b4ff18d9f9ab01fddc23a/artifacts
+deleted_time: 1756828523891
+end_time: 1756828217486
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 35ca0202006b4ff18d9f9ab01fddc23a
+run_name: righteous-vole-341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828217314
+status: 3
+tags: []
+user_id: ravi

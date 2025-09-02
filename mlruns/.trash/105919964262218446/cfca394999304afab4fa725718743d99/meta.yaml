@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/cfca394999304afab4fa725718743d99/artifacts
+deleted_time: 1756828523891
+end_time: 1756828149976
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: cfca394999304afab4fa725718743d99
+run_name: righteous-lamb-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828149779
+status: 3
+tags: []
+user_id: ravi

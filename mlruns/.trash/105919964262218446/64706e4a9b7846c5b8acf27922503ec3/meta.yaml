@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/64706e4a9b7846c5b8acf27922503ec3/artifacts
+deleted_time: 1756828523891
+end_time: 1756828133232
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 64706e4a9b7846c5b8acf27922503ec3
+run_name: exultant-foal-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828132987
+status: 3
+tags: []
+user_id: ravi

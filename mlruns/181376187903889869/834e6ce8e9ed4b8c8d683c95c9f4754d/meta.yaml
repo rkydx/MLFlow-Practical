@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/834e6ce8e9ed4b8c8d683c95c9f4754d/artifacts
+end_time: 1756829620824
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: 834e6ce8e9ed4b8c8d683c95c9f4754d
+run_name: angry-elk-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829620595
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/95ad2391e80a4c79b6ddab064336fca8/artifacts
+deleted_time: 1756828523891
+end_time: 1756828424185
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 95ad2391e80a4c79b6ddab064336fca8
+run_name: likeable-whale-186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828423989
+status: 3
+tags: []
+user_id: ravi

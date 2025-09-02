@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/8f48f9d54f6c46b3995ce300bb396d09/artifacts
+deleted_time: 1756828523891
+end_time: 1756828425742
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 8f48f9d54f6c46b3995ce300bb396d09
+run_name: legendary-fowl-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828425445
+status: 3
+tags: []
+user_id: ravi

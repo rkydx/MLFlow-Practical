@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/3fe34bb9ddf041e8add5eae2eda251fd/artifacts
+deleted_time: 1756828523891
+end_time: 1756828417334
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 3fe34bb9ddf041e8add5eae2eda251fd
+run_name: wise-moth-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828417125
+status: 3
+tags: []
+user_id: ravi

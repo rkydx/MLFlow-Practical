@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/91aefc875d6a40e19602aee295788a04/artifacts
+deleted_time: 1756828523891
+end_time: 1756828395663
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 91aefc875d6a40e19602aee295788a04
+run_name: dazzling-calf-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828395377
+status: 3
+tags: []
+user_id: ravi

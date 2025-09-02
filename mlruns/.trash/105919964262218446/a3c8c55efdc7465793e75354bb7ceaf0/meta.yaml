@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/a3c8c55efdc7465793e75354bb7ceaf0/artifacts
+deleted_time: 1756828523891
+end_time: 1756826470905
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: a3c8c55efdc7465793e75354bb7ceaf0
+run_name: luxuriant-whale-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756826470649
+status: 3
+tags: []
+user_id: ravi

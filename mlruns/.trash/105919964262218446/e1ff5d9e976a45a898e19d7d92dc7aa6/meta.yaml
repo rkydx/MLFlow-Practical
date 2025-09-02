@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/e1ff5d9e976a45a898e19d7d92dc7aa6/artifacts
+deleted_time: 1756828523891
+end_time: 1756828324791
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: e1ff5d9e976a45a898e19d7d92dc7aa6
+run_name: big-dove-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828324632
+status: 3
+tags: []
+user_id: ravi

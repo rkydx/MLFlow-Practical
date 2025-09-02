@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/d4d8caa32c944960b4663d6a978b756d/artifacts
+deleted_time: 1756828523891
+end_time: 1756828179938
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: d4d8caa32c944960b4663d6a978b756d
+run_name: sincere-moth-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828179703
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/5cd837cebec24e639aedee0c2440ca1d/artifacts
+deleted_time: 1756828523891
+end_time: 1756828160778
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 5cd837cebec24e639aedee0c2440ca1d
+run_name: able-boar-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828160501
+status: 3
+tags: []
+user_id: ravi

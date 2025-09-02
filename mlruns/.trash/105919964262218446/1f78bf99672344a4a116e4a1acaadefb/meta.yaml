@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/1f78bf99672344a4a116e4a1acaadefb/artifacts
+deleted_time: 1756828523891
+end_time: 1756828284908
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 1f78bf99672344a4a116e4a1acaadefb
+run_name: peaceful-bear-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828284685
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/dfa3e842edb74734a620095f1e904414/artifacts
+deleted_time: 1756828523891
+end_time: 1756826463485
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: dfa3e842edb74734a620095f1e904414
+run_name: capricious-colt-988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756826463272
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/5e0a00ad7a13418796982b3e87b82a2a/artifacts
+deleted_time: 1756828523891
+end_time: 1756828423029
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 5e0a00ad7a13418796982b3e87b82a2a
+run_name: painted-goat-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828422846
+status: 3
+tags: []
+user_id: ravi

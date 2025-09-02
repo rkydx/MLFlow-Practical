@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/150af53ec44c41949aa7bfec36f72c00/artifacts
+deleted_time: 1756828523891
+end_time: 1756828164245
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 150af53ec44c41949aa7bfec36f72c00
+run_name: fearless-zebra-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828163949
+status: 3
+tags: []
+user_id: ravi

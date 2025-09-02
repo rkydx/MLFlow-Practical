@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/94c74ec8a32c432fa4abd8c6d0a83125/artifacts
+deleted_time: 1756828523891
+end_time: 1756828235804
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 94c74ec8a32c432fa4abd8c6d0a83125
+run_name: entertaining-moth-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828235580
+status: 3
+tags: []
+user_id: ravi

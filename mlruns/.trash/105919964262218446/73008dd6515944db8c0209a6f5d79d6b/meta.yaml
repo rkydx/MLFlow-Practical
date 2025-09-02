@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/73008dd6515944db8c0209a6f5d79d6b/artifacts
+deleted_time: 1756828523891
+end_time: 1756828220299
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 73008dd6515944db8c0209a6f5d79d6b
+run_name: shivering-tern-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828220082
+status: 3
+tags: []
+user_id: ravi

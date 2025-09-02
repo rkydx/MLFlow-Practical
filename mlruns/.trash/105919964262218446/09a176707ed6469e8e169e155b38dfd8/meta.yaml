@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/09a176707ed6469e8e169e155b38dfd8/artifacts
+deleted_time: 1756828523891
+end_time: 1756828277096
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 09a176707ed6469e8e169e155b38dfd8
+run_name: suave-cub-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828276923
+status: 3
+tags: []
+user_id: ravi

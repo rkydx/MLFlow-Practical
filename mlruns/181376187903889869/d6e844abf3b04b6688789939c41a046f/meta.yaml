@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/d6e844abf3b04b6688789939c41a046f/artifacts
+end_time: 1756829625684
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: d6e844abf3b04b6688789939c41a046f
+run_name: bald-fowl-647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829625409
+status: 3
+tags: []
+user_id: ravi

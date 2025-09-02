@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/3e0de215c221470381bb35ed0f2394ee/artifacts
+deleted_time: 1756828523891
+end_time: 1756828346366
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 3e0de215c221470381bb35ed0f2394ee
+run_name: able-penguin-668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828346142
+status: 3
+tags: []
+user_id: ravi

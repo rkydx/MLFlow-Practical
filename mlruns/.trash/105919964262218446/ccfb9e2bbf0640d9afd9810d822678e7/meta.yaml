@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/ccfb9e2bbf0640d9afd9810d822678e7/artifacts
+deleted_time: 1756828523891
+end_time: 1756828274335
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: ccfb9e2bbf0640d9afd9810d822678e7
+run_name: flawless-carp-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828274017
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/6e5eae7807f545ac82c30cc64d86c5ab/artifacts
+deleted_time: 1756828523891
+end_time: 1756828146324
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 6e5eae7807f545ac82c30cc64d86c5ab
+run_name: sincere-smelt-470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828146070
+status: 3
+tags: []
+user_id: ravi

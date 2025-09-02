@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/d9b9b522e1144e3e8a6a4cba69b7f589/artifacts
+deleted_time: 1756828523891
+end_time: 1756828247750
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: d9b9b522e1144e3e8a6a4cba69b7f589
+run_name: fearless-flea-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828247517
+status: 3
+tags: []
+user_id: ravi

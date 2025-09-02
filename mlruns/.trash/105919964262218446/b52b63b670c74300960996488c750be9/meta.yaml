@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/b52b63b670c74300960996488c750be9/artifacts
+deleted_time: 1756828523891
+end_time: 1756828364030
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: b52b63b670c74300960996488c750be9
+run_name: victorious-bass-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828363744
+status: 3
+tags: []
+user_id: ravi

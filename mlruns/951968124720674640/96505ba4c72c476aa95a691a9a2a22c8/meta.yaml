@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/951968124720674640/96505ba4c72c476aa95a691a9a2a22c8/artifacts
+deleted_time: 1756734934153
+end_time: 1756734647896
+entry_point_name: ''
+experiment_id: '951968124720674640'
+lifecycle_stage: deleted
+run_id: 96505ba4c72c476aa95a691a9a2a22c8
+run_name: first run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756734614803
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,32 @@
+artifact_path: mlflow-artifacts:/160891122107924253/models/m-def8cf5aaadc429698d4c96dd248c2ea/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.3.2
+model_id: m-def8cf5aaadc429698d4c96dd248c2ea
+model_size_bytes: 1715396
+model_uuid: m-def8cf5aaadc429698d4c96dd248c2ea
+prompts: null
+run_id: a7ec005efcb74cb9ad0999e11c0f07c6
+signature:
+  inputs: '[{"type": "long", "name": "pclass", "required": true}, {"type": "string",
+    "name": "sex", "required": true}, {"type": "double", "name": "age", "required":
+    true}, {"type": "double", "name": "fare", "required": true}, {"type": "string",
+    "name": "embarked", "required": true}, {"type": "long", "name": "family", "required":
+    true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-02 10:27:07.067680'

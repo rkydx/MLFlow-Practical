@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/35757f5c6e7f44969fc04349b653e7cb/artifacts
+deleted_time: 1756828523891
+end_time: 1756828132750
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 35757f5c6e7f44969fc04349b653e7cb
+run_name: rebellious-dog-70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828132566
+status: 3
+tags: []
+user_id: ravi

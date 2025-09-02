@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/160891122107924253/ec1b00fa5ea246e3a5e3d10364ecf882/artifacts
+end_time: 1756809045858
+entry_point_name: ''
+experiment_id: '160891122107924253'
+lifecycle_stage: active
+run_id: ec1b00fa5ea246e3a5e3d10364ecf882
+run_name: rumbling-vole-451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756809012910
+status: 3
+tags: []
+user_id: ravi

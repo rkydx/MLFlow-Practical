@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/600fe04f65e54cca978e6ca35bd40d20/artifacts
+deleted_time: 1756828523891
+end_time: 1756828284260
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 600fe04f65e54cca978e6ca35bd40d20
+run_name: upbeat-colt-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828283985
+status: 3
+tags: []
+user_id: ravi

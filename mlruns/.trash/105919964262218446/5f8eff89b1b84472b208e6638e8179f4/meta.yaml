@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/5f8eff89b1b84472b208e6638e8179f4/artifacts
+deleted_time: 1756828523891
+end_time: 1756828189034
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 5f8eff89b1b84472b208e6638e8179f4
+run_name: upbeat-yak-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828188770
+status: 3
+tags: []
+user_id: ravi

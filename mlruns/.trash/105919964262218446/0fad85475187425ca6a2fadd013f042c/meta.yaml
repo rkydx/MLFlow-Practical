@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/0fad85475187425ca6a2fadd013f042c/artifacts
+deleted_time: 1756828523891
+end_time: 1756828361266
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 0fad85475187425ca6a2fadd013f042c
+run_name: invincible-grub-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828361068
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/e18f73c026cb4780979dfc4335d7d655/artifacts
+deleted_time: 1756828523891
+end_time: 1756828341035
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: e18f73c026cb4780979dfc4335d7d655
+run_name: traveling-crane-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828340812
+status: 3
+tags: []
+user_id: ravi

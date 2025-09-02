@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/bdff2522433043acb251f9b38fa04538/artifacts
+deleted_time: 1756828523891
+end_time: 1756828330354
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: bdff2522433043acb251f9b38fa04538
+run_name: intelligent-hare-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828330039
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/767387996843555936/5694b60e966b449881436bccd55e9f39/artifacts
+deleted_time: 1756808699067
+end_time: 1756806872835
+entry_point_name: ''
+experiment_id: '767387996843555936'
+lifecycle_stage: deleted
+run_id: 5694b60e966b449881436bccd55e9f39
+run_name: skillful-loon-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756806820172
+status: 3
+tags: []
+user_id: ravi

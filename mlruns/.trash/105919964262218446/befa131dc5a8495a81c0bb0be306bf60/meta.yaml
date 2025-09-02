@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/befa131dc5a8495a81c0bb0be306bf60/artifacts
+deleted_time: 1756828523891
+end_time: 1756828274971
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: befa131dc5a8495a81c0bb0be306bf60
+run_name: shivering-snipe-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828274693
+status: 3
+tags: []
+user_id: ravi

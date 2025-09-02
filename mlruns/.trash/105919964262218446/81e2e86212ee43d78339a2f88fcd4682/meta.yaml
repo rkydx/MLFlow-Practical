@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/81e2e86212ee43d78339a2f88fcd4682/artifacts
+deleted_time: 1756828523891
+end_time: 1756828253935
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 81e2e86212ee43d78339a2f88fcd4682
+run_name: luminous-shrike-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828253687
+status: 3
+tags: []
+user_id: ravi

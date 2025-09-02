@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/e56f04295ff5429f891f452c489d4d0d/artifacts
+deleted_time: 1756828523891
+end_time: 1756828308633
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: e56f04295ff5429f891f452c489d4d0d
+run_name: monumental-calf-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828308421
+status: 3
+tags: []
+user_id: ravi

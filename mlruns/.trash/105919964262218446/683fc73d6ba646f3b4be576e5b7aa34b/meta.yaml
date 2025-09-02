@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/683fc73d6ba646f3b4be576e5b7aa34b/artifacts
+deleted_time: 1756828523891
+end_time: 1756828336710
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 683fc73d6ba646f3b4be576e5b7aa34b
+run_name: dazzling-colt-478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828336432
+status: 3
+tags: []
+user_id: ravi

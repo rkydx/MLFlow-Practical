@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/c18dff44b29e4d78b093c4e33cb1a20e/artifacts
+deleted_time: 1756828523891
+end_time: 1756828166836
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: c18dff44b29e4d78b093c4e33cb1a20e
+run_name: bouncy-sow-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828166603
+status: 3
+tags: []
+user_id: ravi

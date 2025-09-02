@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/7f063fa1b3324a489e632ae651494dbb/artifacts
+deleted_time: 1756828523891
+end_time: 1756828411682
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 7f063fa1b3324a489e632ae651494dbb
+run_name: nervous-jay-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828411409
+status: 3
+tags: []
+user_id: ravi

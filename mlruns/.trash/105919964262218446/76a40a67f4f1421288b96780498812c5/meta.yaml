@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/76a40a67f4f1421288b96780498812c5/artifacts
+deleted_time: 1756828523891
+end_time: 1756828390751
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 76a40a67f4f1421288b96780498812c5
+run_name: gaudy-dog-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828390584
+status: 3
+tags: []
+user_id: ravi

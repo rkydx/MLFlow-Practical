@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/4b5da63ab2ab4dfeb1abb42b722fbf1d/artifacts
+deleted_time: 1756828523891
+end_time: 1756826469258
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 4b5da63ab2ab4dfeb1abb42b722fbf1d
+run_name: redolent-jay-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756826468951
+status: 3
+tags: []
+user_id: ravi

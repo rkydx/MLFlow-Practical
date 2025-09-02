@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/b6a5b804211c4d5480d9bbeeec5c9dde/artifacts
+deleted_time: 1756828523891
+end_time: 1756828205232
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: b6a5b804211c4d5480d9bbeeec5c9dde
+run_name: rogue-koi-357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828205038
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/0217715972ed4045b1f040b4eca3743d/artifacts
+deleted_time: 1756828523891
+end_time: 1756828136507
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 0217715972ed4045b1f040b4eca3743d
+run_name: colorful-mouse-639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828136272
+status: 3
+tags: []
+user_id: ravi

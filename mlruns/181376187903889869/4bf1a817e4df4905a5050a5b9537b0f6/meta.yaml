@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/4bf1a817e4df4905a5050a5b9537b0f6/artifacts
+end_time: 1756829620559
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: 4bf1a817e4df4905a5050a5b9537b0f6
+run_name: rogue-cat-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829620397
+status: 3
+tags: []
+user_id: ravi

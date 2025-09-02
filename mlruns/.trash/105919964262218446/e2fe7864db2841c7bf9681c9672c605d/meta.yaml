@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/e2fe7864db2841c7bf9681c9672c605d/artifacts
+deleted_time: 1756828523891
+end_time: 1756828338742
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: e2fe7864db2841c7bf9681c9672c605d
+run_name: clumsy-gnat-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828338466
+status: 3
+tags: []
+user_id: ravi

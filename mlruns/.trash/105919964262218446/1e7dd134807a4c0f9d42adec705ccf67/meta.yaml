@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/1e7dd134807a4c0f9d42adec705ccf67/artifacts
+deleted_time: 1756828523891
+end_time: 1756826459830
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 1e7dd134807a4c0f9d42adec705ccf67
+run_name: righteous-seal-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756826459475
+status: 3
+tags: []
+user_id: ravi

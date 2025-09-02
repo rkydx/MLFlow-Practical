@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/206aa2571d2e4e7a9e2257be94d3acd3/artifacts
+deleted_time: 1756828523891
+end_time: 1756828410319
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 206aa2571d2e4e7a9e2257be94d3acd3
+run_name: bright-lynx-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828410042
+status: 3
+tags: []
+user_id: ravi

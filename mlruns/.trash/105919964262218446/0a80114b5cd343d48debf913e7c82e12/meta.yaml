@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/0a80114b5cd343d48debf913e7c82e12/artifacts
+deleted_time: 1756828523891
+end_time: 1756828152340
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 0a80114b5cd343d48debf913e7c82e12
+run_name: hilarious-fowl-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828152083
+status: 3
+tags: []
+user_id: ravi

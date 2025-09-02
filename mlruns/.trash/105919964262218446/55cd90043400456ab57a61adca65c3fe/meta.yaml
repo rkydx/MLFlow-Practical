@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/55cd90043400456ab57a61adca65c3fe/artifacts
+deleted_time: 1756828523891
+end_time: 1756828214573
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 55cd90043400456ab57a61adca65c3fe
+run_name: spiffy-kit-959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828214315
+status: 3
+tags: []
+user_id: ravi

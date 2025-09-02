@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/7c984f16bc4e43bb9c7f817b9eafb4d4/artifacts
+deleted_time: 1756828523891
+end_time: 1756828350495
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 7c984f16bc4e43bb9c7f817b9eafb4d4
+run_name: rebellious-hawk-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828350323
+status: 3
+tags: []
+user_id: ravi

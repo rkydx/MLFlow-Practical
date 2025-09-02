@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/cdf22f3cdf45459bb6ed04a87a74d821/artifacts
+deleted_time: 1756828523891
+end_time: 1756828169823
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: cdf22f3cdf45459bb6ed04a87a74d821
+run_name: mercurial-cat-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828169542
+status: 3
+tags: []
+user_id: ravi

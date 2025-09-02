@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/a11b366f2b8a4d3dbde708a0e7c25b79/artifacts
+deleted_time: 1756828523891
+end_time: 1756828403451
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: a11b366f2b8a4d3dbde708a0e7c25b79
+run_name: ambitious-loon-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828403300
+status: 3
+tags: []
+user_id: ravi

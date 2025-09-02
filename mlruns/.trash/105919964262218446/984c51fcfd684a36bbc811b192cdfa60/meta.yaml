@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/984c51fcfd684a36bbc811b192cdfa60/artifacts
+deleted_time: 1756828523891
+end_time: 1756828384370
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 984c51fcfd684a36bbc811b192cdfa60
+run_name: adorable-goose-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828384174
+status: 3
+tags: []
+user_id: ravi

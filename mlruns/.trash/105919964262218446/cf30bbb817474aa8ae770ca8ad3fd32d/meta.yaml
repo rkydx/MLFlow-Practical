@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/cf30bbb817474aa8ae770ca8ad3fd32d/artifacts
+deleted_time: 1756828523891
+end_time: 1756828261789
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: cf30bbb817474aa8ae770ca8ad3fd32d
+run_name: skittish-bass-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828261600
+status: 3
+tags: []
+user_id: ravi

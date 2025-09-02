@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/a39cdf2a5dad4425a973ec87a0ff427f/artifacts
+deleted_time: 1756828523891
+end_time: 1756828391844
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: a39cdf2a5dad4425a973ec87a0ff427f
+run_name: selective-hawk-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828391536
+status: 3
+tags: []
+user_id: ravi

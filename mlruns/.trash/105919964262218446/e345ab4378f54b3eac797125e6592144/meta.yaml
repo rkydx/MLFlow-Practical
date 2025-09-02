@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/e345ab4378f54b3eac797125e6592144/artifacts
+deleted_time: 1756828523891
+end_time: 1756828204285
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: e345ab4378f54b3eac797125e6592144
+run_name: puzzled-rat-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828204107
+status: 3
+tags: []
+user_id: ravi

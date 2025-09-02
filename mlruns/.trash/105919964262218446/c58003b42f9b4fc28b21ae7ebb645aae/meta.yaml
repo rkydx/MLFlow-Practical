@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/c58003b42f9b4fc28b21ae7ebb645aae/artifacts
+deleted_time: 1756828523891
+end_time: 1756828157048
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: c58003b42f9b4fc28b21ae7ebb645aae
+run_name: grandiose-flea-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828156852
+status: 3
+tags: []
+user_id: ravi

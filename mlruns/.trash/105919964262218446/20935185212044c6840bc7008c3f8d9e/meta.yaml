@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/20935185212044c6840bc7008c3f8d9e/artifacts
+deleted_time: 1756828523891
+end_time: 1756828251487
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 20935185212044c6840bc7008c3f8d9e
+run_name: ambitious-snail-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828251256
+status: 3
+tags: []
+user_id: ravi

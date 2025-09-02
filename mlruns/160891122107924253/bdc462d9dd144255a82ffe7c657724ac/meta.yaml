@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/160891122107924253/bdc462d9dd144255a82ffe7c657724ac/artifacts
+end_time: 1756808834670
+entry_point_name: ''
+experiment_id: '160891122107924253'
+lifecycle_stage: active
+run_id: bdc462d9dd144255a82ffe7c657724ac
+run_name: vaunted-kite-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756808796835
+status: 3
+tags: []
+user_id: ravi

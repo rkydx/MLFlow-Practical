@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/3da69c82535444c68db9b7a3203a9b97/artifacts
+deleted_time: 1756828523891
+end_time: 1756828203314
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 3da69c82535444c68db9b7a3203a9b97
+run_name: amazing-ox-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828203132
+status: 3
+tags: []
+user_id: ravi

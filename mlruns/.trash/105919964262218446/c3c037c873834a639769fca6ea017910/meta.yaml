@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/c3c037c873834a639769fca6ea017910/artifacts
+deleted_time: 1756828523891
+end_time: 1756826468907
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: c3c037c873834a639769fca6ea017910
+run_name: rogue-deer-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756826468613
+status: 3
+tags: []
+user_id: ravi

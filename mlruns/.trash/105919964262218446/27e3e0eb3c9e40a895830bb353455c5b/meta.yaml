@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/27e3e0eb3c9e40a895830bb353455c5b/artifacts
+deleted_time: 1756828523891
+end_time: 1756828407116
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 27e3e0eb3c9e40a895830bb353455c5b
+run_name: bald-asp-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828406942
+status: 3
+tags: []
+user_id: ravi

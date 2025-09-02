@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/ff59d013c2794c588dec297704f5c613/artifacts
+deleted_time: 1756828523891
+end_time: 1756828206263
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: ff59d013c2794c588dec297704f5c613
+run_name: classy-pig-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828206056
+status: 3
+tags: []
+user_id: ravi

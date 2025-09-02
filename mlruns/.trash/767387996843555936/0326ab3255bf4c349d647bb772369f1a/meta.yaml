@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/767387996843555936/0326ab3255bf4c349d647bb772369f1a/artifacts
+deleted_time: 1756808699067
+end_time: 1756806872835
+entry_point_name: ''
+experiment_id: '767387996843555936'
+lifecycle_stage: deleted
+run_id: 0326ab3255bf4c349d647bb772369f1a
+run_name: rare-sloth-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756806820172
+status: 3
+tags: []
+user_id: ravi

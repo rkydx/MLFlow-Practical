@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/c7769ef4a7de4192aa6b47aecb5a1643/artifacts
+deleted_time: 1756828523891
+end_time: 1756828196822
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: c7769ef4a7de4192aa6b47aecb5a1643
+run_name: fun-quail-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828196537
+status: 3
+tags: []
+user_id: ravi

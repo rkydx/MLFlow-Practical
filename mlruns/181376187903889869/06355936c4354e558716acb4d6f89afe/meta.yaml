@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/06355936c4354e558716acb4d6f89afe/artifacts
+end_time: 1756829624633
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: 06355936c4354e558716acb4d6f89afe
+run_name: bemused-ray-72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829624349
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/a4b71c197b8e48fbaf25f56c5c865e00/artifacts
+deleted_time: 1756828523891
+end_time: 1756828246126
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: a4b71c197b8e48fbaf25f56c5c865e00
+run_name: bustling-mole-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828245848
+status: 3
+tags: []
+user_id: ravi

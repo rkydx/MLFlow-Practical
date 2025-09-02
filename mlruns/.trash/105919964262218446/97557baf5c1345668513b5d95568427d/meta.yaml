@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/97557baf5c1345668513b5d95568427d/artifacts
+deleted_time: 1756828523891
+end_time: 1756828172506
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 97557baf5c1345668513b5d95568427d
+run_name: capable-goose-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828172266
+status: 3
+tags: []
+user_id: ravi

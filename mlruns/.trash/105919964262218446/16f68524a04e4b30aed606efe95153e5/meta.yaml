@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/16f68524a04e4b30aed606efe95153e5/artifacts
+deleted_time: 1756828523891
+end_time: 1756828189824
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 16f68524a04e4b30aed606efe95153e5
+run_name: resilient-foal-855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828189689
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/c5384120b2ef441d9c013f0c0f0ad8ee/artifacts
+deleted_time: 1756828523891
+end_time: 1756828314077
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: c5384120b2ef441d9c013f0c0f0ad8ee
+run_name: defiant-penguin-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828313815
+status: 3
+tags: []
+user_id: ravi

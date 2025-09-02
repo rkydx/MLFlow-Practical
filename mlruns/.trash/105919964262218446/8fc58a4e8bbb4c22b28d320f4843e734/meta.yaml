@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/8fc58a4e8bbb4c22b28d320f4843e734/artifacts
+deleted_time: 1756828523891
+end_time: 1756828413013
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 8fc58a4e8bbb4c22b28d320f4843e734
+run_name: enthused-croc-357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828412798
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/9178299ca6124930a1213edd72dc6124/artifacts
+deleted_time: 1756828523891
+end_time: 1756828216375
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 9178299ca6124930a1213edd72dc6124
+run_name: sneaky-bee-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828216155
+status: 3
+tags: []
+user_id: ravi

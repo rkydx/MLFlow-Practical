@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/b4134b2e2ce84b17ba6fbcaf8fd70694/artifacts
+deleted_time: 1756828523891
+end_time: 1756826467247
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: b4134b2e2ce84b17ba6fbcaf8fd70694
+run_name: skillful-whale-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756826466991
+status: 3
+tags: []
+user_id: ravi

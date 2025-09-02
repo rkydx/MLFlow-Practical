@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/afbe4b9d202d47efa876385e1a1d190c/artifacts
+deleted_time: 1756828523891
+end_time: 1756828236867
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: afbe4b9d202d47efa876385e1a1d190c
+run_name: resilient-duck-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828236615
+status: 3
+tags: []
+user_id: ravi

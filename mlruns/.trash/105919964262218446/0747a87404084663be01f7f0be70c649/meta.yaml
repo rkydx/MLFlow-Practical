@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/0747a87404084663be01f7f0be70c649/artifacts
+deleted_time: 1756828523891
+end_time: 1756828271811
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 0747a87404084663be01f7f0be70c649
+run_name: capricious-duck-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828271588
+status: 3
+tags: []
+user_id: ravi

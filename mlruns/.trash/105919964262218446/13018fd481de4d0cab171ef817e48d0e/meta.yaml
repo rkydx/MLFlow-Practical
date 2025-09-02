@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/13018fd481de4d0cab171ef817e48d0e/artifacts
+deleted_time: 1756828523891
+end_time: 1756828191292
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 13018fd481de4d0cab171ef817e48d0e
+run_name: thundering-bird-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828191026
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/e47fb51afe614377b11ea3038d913ecf/artifacts
+deleted_time: 1756828523891
+end_time: 1756828161035
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: e47fb51afe614377b11ea3038d913ecf
+run_name: bold-skunk-941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828160827
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/8c592139419047e1837ab0d318158292/artifacts
+deleted_time: 1756828523891
+end_time: 1756828145510
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 8c592139419047e1837ab0d318158292
+run_name: righteous-hare-104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828145354
+status: 3
+tags: []
+user_id: ravi

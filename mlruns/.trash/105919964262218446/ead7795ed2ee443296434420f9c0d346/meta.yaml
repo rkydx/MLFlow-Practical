@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/ead7795ed2ee443296434420f9c0d346/artifacts
+deleted_time: 1756828523891
+end_time: 1756828203581
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: ead7795ed2ee443296434420f9c0d346
+run_name: upset-croc-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828203374
+status: 3
+tags: []
+user_id: ravi

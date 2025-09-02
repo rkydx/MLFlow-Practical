@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/3c742d1919b249059ea93307e460835d/artifacts
+deleted_time: 1756828523891
+end_time: 1756828188374
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 3c742d1919b249059ea93307e460835d
+run_name: auspicious-carp-753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828188136
+status: 3
+tags: []
+user_id: ravi

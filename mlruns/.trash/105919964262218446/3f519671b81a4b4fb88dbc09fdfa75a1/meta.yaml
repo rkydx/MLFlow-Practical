@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/3f519671b81a4b4fb88dbc09fdfa75a1/artifacts
+deleted_time: 1756828523891
+end_time: 1756828380853
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 3f519671b81a4b4fb88dbc09fdfa75a1
+run_name: enthused-zebra-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828380597
+status: 3
+tags: []
+user_id: ravi

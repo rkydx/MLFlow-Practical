@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/c8a7df6180da4e999cbdfeda6b1e1717/artifacts
+deleted_time: 1756828523891
+end_time: 1756828154538
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: c8a7df6180da4e999cbdfeda6b1e1717
+run_name: unleashed-shark-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828154385
+status: 3
+tags: []
+user_id: ravi

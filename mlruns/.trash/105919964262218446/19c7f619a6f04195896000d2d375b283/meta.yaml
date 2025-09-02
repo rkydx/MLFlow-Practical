@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/19c7f619a6f04195896000d2d375b283/artifacts
+deleted_time: 1756828523891
+end_time: 1756828357871
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 19c7f619a6f04195896000d2d375b283
+run_name: painted-skunk-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828357600
+status: 3
+tags: []
+user_id: ravi

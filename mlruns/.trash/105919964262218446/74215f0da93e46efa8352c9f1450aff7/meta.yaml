@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/74215f0da93e46efa8352c9f1450aff7/artifacts
+deleted_time: 1756828523891
+end_time: 1756826456919
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 74215f0da93e46efa8352c9f1450aff7
+run_name: bittersweet-yak-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756826456535
+status: 3
+tags: []
+user_id: ravi

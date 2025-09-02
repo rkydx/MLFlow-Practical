@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/33f35cc4cf364f109115f503d7b003a0/artifacts
+deleted_time: 1756828523891
+end_time: 1756828295345
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 33f35cc4cf364f109115f503d7b003a0
+run_name: nebulous-bass-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828295155
+status: 3
+tags: []
+user_id: ravi

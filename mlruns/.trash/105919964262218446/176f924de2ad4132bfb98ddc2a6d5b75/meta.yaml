@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/176f924de2ad4132bfb98ddc2a6d5b75/artifacts
+deleted_time: 1756828523891
+end_time: 1756828193157
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 176f924de2ad4132bfb98ddc2a6d5b75
+run_name: dashing-grub-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828192987
+status: 3
+tags: []
+user_id: ravi

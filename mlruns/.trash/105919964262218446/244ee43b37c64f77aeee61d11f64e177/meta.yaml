@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/244ee43b37c64f77aeee61d11f64e177/artifacts
+deleted_time: 1756828523891
+end_time: 1756826457969
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 244ee43b37c64f77aeee61d11f64e177
+run_name: flawless-whale-963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756826457575
+status: 3
+tags: []
+user_id: ravi

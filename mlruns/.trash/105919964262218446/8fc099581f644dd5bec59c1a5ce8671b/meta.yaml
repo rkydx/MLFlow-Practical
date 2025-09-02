@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/8fc099581f644dd5bec59c1a5ce8671b/artifacts
+deleted_time: 1756828523891
+end_time: 1756828145148
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 8fc099581f644dd5bec59c1a5ce8671b
+run_name: polite-shrimp-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828144926
+status: 3
+tags: []
+user_id: ravi

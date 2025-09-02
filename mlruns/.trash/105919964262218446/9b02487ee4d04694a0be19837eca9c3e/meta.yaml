@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/9b02487ee4d04694a0be19837eca9c3e/artifacts
+deleted_time: 1756828523891
+end_time: 1756828236549
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 9b02487ee4d04694a0be19837eca9c3e
+run_name: tasteful-mink-913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828236318
+status: 3
+tags: []
+user_id: ravi

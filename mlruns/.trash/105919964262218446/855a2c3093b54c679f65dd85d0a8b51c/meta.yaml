@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/855a2c3093b54c679f65dd85d0a8b51c/artifacts
+deleted_time: 1756828523891
+end_time: 1756828398411
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 855a2c3093b54c679f65dd85d0a8b51c
+run_name: sassy-sloth-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828398210
+status: 3
+tags: []
+user_id: ravi

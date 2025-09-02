@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/95f911f8db59468db20c2e2c2b7c1d6d/artifacts
+deleted_time: 1756828523891
+end_time: 1756828386732
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 95f911f8db59468db20c2e2c2b7c1d6d
+run_name: stately-hen-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828386462
+status: 3
+tags: []
+user_id: ravi

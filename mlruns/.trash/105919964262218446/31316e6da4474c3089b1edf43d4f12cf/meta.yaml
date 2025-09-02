@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/31316e6da4474c3089b1edf43d4f12cf/artifacts
+deleted_time: 1756828523891
+end_time: 1756828225287
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 31316e6da4474c3089b1edf43d4f12cf
+run_name: funny-zebra-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828225077
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/a92651f105cc451cb1e8840985b252e5/artifacts
+deleted_time: 1756828523891
+end_time: 1756828282593
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: a92651f105cc451cb1e8840985b252e5
+run_name: defiant-wren-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828282318
+status: 3
+tags: []
+user_id: ravi

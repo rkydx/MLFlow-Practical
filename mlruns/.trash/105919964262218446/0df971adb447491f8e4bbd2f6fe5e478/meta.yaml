@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/0df971adb447491f8e4bbd2f6fe5e478/artifacts
+deleted_time: 1756828523891
+end_time: 1756828133764
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 0df971adb447491f8e4bbd2f6fe5e478
+run_name: burly-panda-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828133569
+status: 3
+tags: []
+user_id: ravi

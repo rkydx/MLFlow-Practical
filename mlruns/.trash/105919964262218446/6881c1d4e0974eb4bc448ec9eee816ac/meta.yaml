@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/6881c1d4e0974eb4bc448ec9eee816ac/artifacts
+deleted_time: 1756828523891
+end_time: 1756828324548
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 6881c1d4e0974eb4bc448ec9eee816ac
+run_name: gifted-foal-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828324227
+status: 3
+tags: []
+user_id: ravi

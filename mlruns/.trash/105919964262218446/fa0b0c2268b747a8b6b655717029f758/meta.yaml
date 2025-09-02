@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/fa0b0c2268b747a8b6b655717029f758/artifacts
+deleted_time: 1756828523891
+end_time: 1756828291214
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: fa0b0c2268b747a8b6b655717029f758
+run_name: stylish-skink-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828290977
+status: 3
+tags: []
+user_id: ravi

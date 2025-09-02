@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/a5a21a9eea064d18ac6f17a44dbb387f/artifacts
+deleted_time: 1756828523891
+end_time: 1756828270430
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: a5a21a9eea064d18ac6f17a44dbb387f
+run_name: zealous-foal-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828270187
+status: 3
+tags: []
+user_id: ravi

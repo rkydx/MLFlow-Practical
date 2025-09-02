@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/4fe1c7b2dc874e2fa9c255ab1af582bd/artifacts
+deleted_time: 1756828523891
+end_time: 1756828427924
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 4fe1c7b2dc874e2fa9c255ab1af582bd
+run_name: smiling-roo-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828427653
+status: 3
+tags: []
+user_id: ravi

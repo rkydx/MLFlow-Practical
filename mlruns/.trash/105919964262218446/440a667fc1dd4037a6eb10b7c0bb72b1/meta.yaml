@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/440a667fc1dd4037a6eb10b7c0bb72b1/artifacts
+deleted_time: 1756828523891
+end_time: 1756828152730
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 440a667fc1dd4037a6eb10b7c0bb72b1
+run_name: monumental-ram-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828152574
+status: 3
+tags: []
+user_id: ravi

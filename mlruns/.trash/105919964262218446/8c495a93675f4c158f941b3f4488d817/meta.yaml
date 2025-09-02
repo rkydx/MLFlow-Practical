@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/8c495a93675f4c158f941b3f4488d817/artifacts
+deleted_time: 1756828523891
+end_time: 1756828296207
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 8c495a93675f4c158f941b3f4488d817
+run_name: rogue-whale-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828295994
+status: 3
+tags: []
+user_id: ravi

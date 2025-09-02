@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/7c60dba136654c6f9c0a2c64eead39cb/artifacts
+deleted_time: 1756828523891
+end_time: 1756828222906
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 7c60dba136654c6f9c0a2c64eead39cb
+run_name: nimble-smelt-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828222621
+status: 3
+tags: []
+user_id: ravi

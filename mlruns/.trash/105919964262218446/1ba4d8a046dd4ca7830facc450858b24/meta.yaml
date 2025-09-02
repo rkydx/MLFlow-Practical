@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/1ba4d8a046dd4ca7830facc450858b24/artifacts
+deleted_time: 1756828523891
+end_time: 1756828194651
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 1ba4d8a046dd4ca7830facc450858b24
+run_name: adorable-jay-176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828194392
+status: 3
+tags: []
+user_id: ravi

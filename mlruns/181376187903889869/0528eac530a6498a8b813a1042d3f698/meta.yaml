@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/0528eac530a6498a8b813a1042d3f698/artifacts
+end_time: 1756829624093
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: 0528eac530a6498a8b813a1042d3f698
+run_name: dazzling-owl-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829623908
+status: 3
+tags: []
+user_id: ravi

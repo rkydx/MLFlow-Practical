@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/ba07ce4c72574fc384eda779ecca2eb6/artifacts
+deleted_time: 1756828523891
+end_time: 1756828424571
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: ba07ce4c72574fc384eda779ecca2eb6
+run_name: defiant-mouse-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828424288
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/468be841bf6a4d3491eeefae93c39376/artifacts
+end_time: 1756829624304
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: 468be841bf6a4d3491eeefae93c39376
+run_name: entertaining-owl-439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829624134
+status: 3
+tags: []
+user_id: ravi

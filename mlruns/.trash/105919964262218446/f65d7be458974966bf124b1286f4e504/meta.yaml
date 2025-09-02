@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/f65d7be458974966bf124b1286f4e504/artifacts
+deleted_time: 1756828523891
+end_time: 1756828438700
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: f65d7be458974966bf124b1286f4e504
+run_name: fortunate-flea-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828438378
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/fa5f3f54771646c0a68cd23b54776227/artifacts
+deleted_time: 1756828523891
+end_time: 1756828310546
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: fa5f3f54771646c0a68cd23b54776227
+run_name: monumental-owl-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828310378
+status: 3
+tags: []
+user_id: ravi

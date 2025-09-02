@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181376187903889869/8fda4b7cfff74baaaf69ef6acc71998f/artifacts
+end_time: 1756829619825
+entry_point_name: ''
+experiment_id: '181376187903889869'
+lifecycle_stage: active
+run_id: 8fda4b7cfff74baaaf69ef6acc71998f
+run_name: upbeat-skunk-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756829619554
+status: 3
+tags: []
+user_id: ravi

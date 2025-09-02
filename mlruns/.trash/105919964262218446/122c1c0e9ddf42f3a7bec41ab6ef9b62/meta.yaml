@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/122c1c0e9ddf42f3a7bec41ab6ef9b62/artifacts
+deleted_time: 1756828523891
+end_time: 1756828167124
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 122c1c0e9ddf42f3a7bec41ab6ef9b62
+run_name: shivering-carp-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828166885
+status: 3
+tags: []
+user_id: ravi

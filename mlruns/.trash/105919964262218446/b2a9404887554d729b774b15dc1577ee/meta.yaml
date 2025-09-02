@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/b2a9404887554d729b774b15dc1577ee/artifacts
+deleted_time: 1756828523891
+end_time: 1756828184204
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: b2a9404887554d729b774b15dc1577ee
+run_name: adorable-fish-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828184036
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/76eaaf02d21b4d91a1c3a9aa6fa1eb85/artifacts
+deleted_time: 1756828523891
+end_time: 1756828257744
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 76eaaf02d21b4d91a1c3a9aa6fa1eb85
+run_name: lyrical-auk-276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828257485
+status: 3
+tags: []
+user_id: ravi

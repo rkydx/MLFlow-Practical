@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/6f6b9d8655304098b4dbb8c27f90ae4a/artifacts
+deleted_time: 1756828523891
+end_time: 1756828204502
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 6f6b9d8655304098b4dbb8c27f90ae4a
+run_name: luminous-bass-826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828204341
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/6cf85a489bed4121ba517a6be2695180/artifacts
+deleted_time: 1756828523891
+end_time: 1756828389799
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 6cf85a489bed4121ba517a6be2695180
+run_name: intelligent-sow-699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828389522
+status: 3
+tags: []
+user_id: ravi

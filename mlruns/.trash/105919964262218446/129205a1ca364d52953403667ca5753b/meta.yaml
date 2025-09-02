@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/129205a1ca364d52953403667ca5753b/artifacts
+deleted_time: 1756828523891
+end_time: 1756828426096
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 129205a1ca364d52953403667ca5753b
+run_name: judicious-goat-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828425844
+status: 3
+tags: []
+user_id: ravi

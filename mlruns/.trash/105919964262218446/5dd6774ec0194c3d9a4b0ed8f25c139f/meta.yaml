@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/5dd6774ec0194c3d9a4b0ed8f25c139f/artifacts
+deleted_time: 1756828523891
+end_time: 1756828240930
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 5dd6774ec0194c3d9a4b0ed8f25c139f
+run_name: melodic-loon-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828240652
+status: 3
+tags: []
+user_id: ravi

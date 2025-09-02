@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/e9a25ba5655f43348fc8e98fa50032cd/artifacts
+deleted_time: 1756828523891
+end_time: 1756828248038
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: e9a25ba5655f43348fc8e98fa50032cd
+run_name: honorable-smelt-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828247817
+status: 3
+tags: []
+user_id: ravi

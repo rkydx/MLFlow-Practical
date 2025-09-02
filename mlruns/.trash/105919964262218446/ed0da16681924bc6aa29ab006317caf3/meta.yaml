@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/ed0da16681924bc6aa29ab006317caf3/artifacts
+deleted_time: 1756828523891
+end_time: 1756828372153
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: ed0da16681924bc6aa29ab006317caf3
+run_name: thoughtful-crane-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828371860
+status: 3
+tags: []
+user_id: ravi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/105919964262218446/2e83ab7bf1bd4557a1ec5ea05d1a4d84/artifacts
+deleted_time: 1756828523891
+end_time: 1756828289579
+entry_point_name: ''
+experiment_id: '105919964262218446'
+lifecycle_stage: deleted
+run_id: 2e83ab7bf1bd4557a1ec5ea05d1a4d84
+run_name: nimble-chimp-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756828289265
+status: 3
+tags: []
+user_id: ravi
